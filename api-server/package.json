@@ -1,0 +1,8 @@
+{
+  "name": "api-server",
+  "version": "1.0.0",
+  "description": "provide the api-gateway for kebuconap back-end service",
+  "main": "index.js",
+  "author": "fizos",
+  "license": "MIT"
+}
